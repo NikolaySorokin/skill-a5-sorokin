@@ -1,0 +1,20 @@
+.heading-text {
+	margin: 50px 0;
+	text-transform: uppercase;
+}
+
+.main-form {
+	margin-bottom: 30px;
+}
+
+.main-form input {
+	box-shadow: #007bff 2px 2px 7px 1px;
+} 
+
+.btn-wrapper {
+	justify-content: center;
+}
+
+.start-btn {
+	width: 15vw;
+}
